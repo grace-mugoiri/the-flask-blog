@@ -1,6 +1,13 @@
 # the-flask-blog
-dummy website that lets a user register if not registered and logs one if registered
-user should be able to add as many posts as possible
+ >dummy website that lets a user register if not registered and logs one if registered.
+
+ >user should be able to add as many posts as possible.
+
+ >user should be able to update posts.
+ 
+ >user should be able to delete a post.
+ 
+ >user should be able to access 'account' if logged in.
  
 # Running the app:
     python run.py
