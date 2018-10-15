@@ -2,7 +2,7 @@
 dummy website that lets a user register if not registered and logs one if registered
 user should be able to add as many posts as possible
 
-# areas the project teaches
+# project covers these areas:-
 
   1.Forms and validation.
   
@@ -24,10 +24,8 @@ user should be able to add as many posts as possible
   
   10.Templates
  
-# to start the app:
-  simply run the command 
-  
-  python <name_of_file>.py
+# Running the app:
+    python run.py
   
   # for requirements:
     see requirements.txt
