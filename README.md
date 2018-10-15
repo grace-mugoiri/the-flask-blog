@@ -1,7 +1,13 @@
 # the-flask-blog
 dummy website that lets a user register if not registered and logs one if registered
 user should be able to add as many posts as possible
-
+ 
+# Running the app:
+    python run.py
+  
+  # for requirements:
+    see requirements.txt
+    
 # project covers these areas:-
 
   1.Forms and validation.
@@ -23,9 +29,3 @@ user should be able to add as many posts as possible
   9.User account profile pic.
   
   10.Templates
- 
-# Running the app:
-    python run.py
-  
-  # for requirements:
-    see requirements.txt
