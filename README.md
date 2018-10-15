@@ -4,7 +4,7 @@ user should be able to add as many posts as possible
 
 # areas the project teaches
 
-  1. Forms and validation.
+  1.Forms and validation.
   
   2.Database (Sqlalchemy).
   
