@@ -24,3 +24,10 @@ user should be able to add as many posts as possible
   
   10.Templates
  
+# to start the app:
+  simply run the command 
+  
+  python <name_of_file>.py
+  
+  # for requirements:
+    see requirements.txt
